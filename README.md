@@ -12,7 +12,7 @@ This project implements a **Content-Based Recommendation System** using the Movi
 - **Hyperparameter Tuning**: Implements grid search to optimize parameters like embedding size, learning rate, and regularization.
 
 ## Dataset
-The MovieLens dataset is sourced from [GroupLens](https://grouplens.org/datasets/movielens/latest/). It includes various files like `ratings.csv`, `movies.csv`, `tags.csv`, `links.csv`, and `plots.csv`.
+The MovieLens dataset is sourced from [GroupLens](https://grouplens.org/datasets/movielens/latest/). It includes various files like `ratings.csv`, `movies.csv`, `tags.csv`, `links.csv`
 
 ## Usage
 
