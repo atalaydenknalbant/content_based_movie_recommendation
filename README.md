@@ -13,7 +13,7 @@ This project implements a **Content-Based Recommendation System** using the Movi
 
 ## Dataset
 The MovieLens dataset is sourced from [GroupLens](https://grouplens.org/datasets/movielens/latest/). It includes various files like `ratings.csv`, `movies.csv`, `tags.csv`, `links.csv`
-
+OMDb API used to fetch `plots.csv`
 ## Usage
 
 ### 1. Preprocessing
