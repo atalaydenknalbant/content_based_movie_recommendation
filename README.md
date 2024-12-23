@@ -46,7 +46,8 @@ movielens-recommender/
 ├── grid_search.ipynb         # Hyperparameter tuning with grid search
 ├── Content_Based_Recommendation.ipynb  # Content-based recommendation system
 ├── requirements.txt          # Python dependencies
-└── README.md                 # Project description
+├── README.md                 # Project description
+└── plots.csv                 # Plot summaries of all the movies 
 ```
 
 ## Dependencies
